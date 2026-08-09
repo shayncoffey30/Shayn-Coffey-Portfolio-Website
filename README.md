@@ -1,2 +1,1 @@
-# Shayn-Coffey-Portfolio-Website
-Personal Portfolio Website
+A responsive portfolio showcasing my software development projects, skills, and experience.
